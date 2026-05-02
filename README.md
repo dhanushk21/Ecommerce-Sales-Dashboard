@@ -3,6 +3,8 @@ A comprehensive Power BI dashboard analyzing Year-To-Date (YTD) performance acro
 
 🖼️ Dashboard Preview
 
+<img width="1328" height="742" alt="Screenshot 2026-05-02 154005" src="https://github.com/user-attachments/assets/2518ece2-9948-4974-9fea-3b1d5e089aa7" />
+
 🎯 Key Insights & Features
 
 📈 Executive Summary KPI Cards: Real-time tracking of $11.53M in YTD Sales and $1.34M in YTD Profit, including a 11.6% Profit Margin.
